@@ -65,6 +65,23 @@ nav {
     width: 50px;
 }
 
-.unactive:hover {
-    -o-table-baseline: var(--accent-orange);
+.unactive {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.unactive::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+  width: 0;
+  height: 2px;
+  background-color: var(--accent-orange);
+  transition: width 0.3s ease;
+}
+
+.unactive:hover::after {
+  width: 100%;
 }
