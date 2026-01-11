@@ -91,3 +91,7 @@ nav {
 .unactive:hover::after {
   width: 100%;
 }
+
+.search input {
+    
+}
