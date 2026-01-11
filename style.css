@@ -18,7 +18,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
     height: 40px;
     background-color: #0b1a33;
     padding: 20px;
@@ -34,9 +33,12 @@ nav {
 
 .nav {
     gap: 20px;
-    text-decoration: none;
-    color: white;
     margin: auto;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 .search {
