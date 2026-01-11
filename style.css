@@ -47,11 +47,13 @@ nav {
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    align-items: center;
 }
 
 .nav a {
     text-decoration: none;
     color: #ffffff;
+    font-weight: 600;
 }
 
 .search {
@@ -61,7 +63,7 @@ nav {
 #active {
     background: linear-gradient(135deg, #ff9f1c, #ffb703);
     color: #ffffff;
-    padding: 10px 30px;
+    padding: 50px 18px;
     font-weight: 700;
     box-shadow:
         0 0 12px rgba(255,159,28,0.7),
