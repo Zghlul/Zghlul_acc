@@ -63,5 +63,8 @@ nav {
     align-items: center;
     margin-top: 0;
     width: 50px;
-    position: fixed;
+}
+
+.unactive:hover {
+    -o-table-baseline: var(--accent-orange);
 }
