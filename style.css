@@ -57,3 +57,7 @@ nav {
 .search {
     margin-left: auto;
 }
+
+.active {
+    background-color: #ff9f1c;
+}
