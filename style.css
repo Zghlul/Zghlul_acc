@@ -93,5 +93,6 @@ nav {
 }
 
 .search input {
-    
+    border-radius: 10px;
+    height: 20px;
 }
