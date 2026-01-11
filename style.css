@@ -58,9 +58,7 @@ nav {
     margin-left: auto;
 }
 
-.active {
+#active {
     background-color: #ff9f1c;
-    height: 40px;
-    padding: 10px;
-    position: absolute;
+    padding: 50px;
 }
