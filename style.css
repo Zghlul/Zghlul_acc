@@ -27,6 +27,11 @@ nav {
     margin-right: auto;
 }
 
+.logo {
+    height: 20px;
+    width: auto;
+}
+
 .logo-text {
     color: #ff9f1c;
 }
