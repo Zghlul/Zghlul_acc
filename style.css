@@ -34,8 +34,12 @@ nav {
 }
 
 .logo-text {
-    color: #ff9f1c;
     margin-left: 0.7rem;
+    color: #f6f7fb;
+}
+
+.logo-text h3:hover {
+    color: #ff9f1c;
 }
 
 .nav {
