@@ -40,6 +40,7 @@ nav {
 
 .logo-text h3:hover {
     color: #ff9f1c;
+    text-shadow: 0 0 14px rgba(255,159,28,0.8);
 }
 
 .nav {
