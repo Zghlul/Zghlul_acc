@@ -25,9 +25,11 @@ nav {
 
 .brand {
     margin-right: auto;
+    display: flex;
 }
 
-.logo {
+.logo img {
+    height: 50px;
 }
 
 .logo-text {
