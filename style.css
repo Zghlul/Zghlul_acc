@@ -60,9 +60,9 @@ nav {
 
 #active {
     background-color: #ff9f1c;
-    align-items: center;
     margin-top: 0;
     width: 50px;
+    padding: 50px;
 }
 
 .unactive {
