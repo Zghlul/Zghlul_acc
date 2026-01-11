@@ -60,7 +60,8 @@ nav {
 
 #active {
     background-color: #ff9f1c;
-    padding: 50px;
     align-items: center;
     margin-top: 0;
+    width: 50px;
+    position: relative;
 }
